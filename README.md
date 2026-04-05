@@ -2,7 +2,7 @@
 
 A clean, modern, and interactive finance dashboard built with React + TypeScript to track income, expenses, and spending insights.
 
-![Dashboard Preview](./screenshots/dashboard.png)
+![Dashboard Preview](./screenshots/dashboard.png?v=2)
 
 ---
 
@@ -51,10 +51,10 @@ A clean, modern, and interactive finance dashboard built with React + TypeScript
 
 | Dashboard | Transactions | Insights |
 |---|---|---|
-| ![Dashboard](./screenshots/dashboard.png) | ![Transactions](./screenshots/transactions.png) | ![Insights](./screenshots/insights.png) |
+| ![Dashboard](./screenshots/dashboard.png?v=2) | ![Transactions](./screenshots/transactions.png?v=2) | ![Insights](./screenshots/insights.png?v=2) |
 
 ### Edit Transaction Modal
-![Edit Transaction Modal](./screenshots/edit-modal.png)
+![Edit Transaction Modal](./screenshots/edit-modal.png?v=2)
 
 ---
 
