@@ -8,8 +8,8 @@ A clean, modern, and interactive finance dashboard built with React + TypeScript
 
 ## 🚀 Live Demo
 
-> **[View Deployed App →](https://finance-dashboard-sandy-eight.vercel.app/)** 
-
+> 🚀 **View Deployed App →**  
+> https://finance-dashboard-sandy-eight.vercel.app/
 ---
 
 ## ✨ Features vs Requirements
